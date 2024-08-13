@@ -1,2 +1,2 @@
 # Stock-Analyser
- Used to analyse stocks
+The Stock Analysis App is a web-based tool designed to help users analyze historical stock data and visualize key metrics such as closing prices, moving averages, and trading volumes. Built with Python and Streamlit, this app fetches real-time stock data from Yahoo Finance using the yfinance library and presents it in an intuitive, interactive interface. Users can input their desired stock ticker symbols and date ranges to generate detailed visualizations.
